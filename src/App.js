@@ -7,7 +7,6 @@ import { Contact } from './Components/Contact/Contact';
 import Work from './Components/Work/Work';
 import Footer from './Components/Footer/Footer';
 
-// require('dotenv').config();
 
 function App() {
   
