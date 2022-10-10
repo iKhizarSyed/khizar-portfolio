@@ -1,0 +1,58 @@
+#contact-form {
+margin-top: 4%;
+}
+
+.contact-width {
+  width: 35% !important;
+  margin-top: -5%;
+  margin-bottom: 3%;
+  background-image: url(../../../public/images/contact.jpg);
+  border-radius: 40px;
+  box-shadow: 2px 3px 4px 1px #000;
+}
+
+.contact-h1 {
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.control-contact-width {
+    width: 80% !important;
+margin-left: 10% !important;}
+
+.control-contact-width .btn {
+    margin-left: 32% !important ;
+    margin-bottom: 3%;
+    border-radius: 20px;
+    width: 35%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+.control-contact-width .btn:hover {
+    background-color:#000;
+}
+
+
+.label-color {
+    color: #251B37;
+    font-weight: bolder;
+}
+
+
+@media screen and (max-width: 990px) {
+    #contact-form {
+        width: 40% !important;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    #contact-form {
+        width: 45% !important;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    #contact-form {
+        width: 67%!important;
+    }
+}

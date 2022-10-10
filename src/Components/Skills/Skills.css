@@ -1,0 +1,39 @@
+#Skills {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.skill-h1 {
+  margin-bottom: 40px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.backend-coming-soon {
+  font-weight: bold;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
+}
+
+/* MEDIA QUERRY */
+
+@media screen and (max-width: 766px) {
+  .container-fluid {
+    width: 70% !important;
+  } 
+
+  .carousel-indicators{
+    width: 30% !important;
+    margin-left: 35% !important;
+    margin-bottom: -5px !important;
+  }
+
+  .carousel-margin {
+    margin-top: 11% !important;
+  }
+
+}

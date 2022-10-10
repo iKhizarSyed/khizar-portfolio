@@ -1,0 +1,16 @@
+#footer {
+    /* padding: 6%; */
+    margin-top: -12%;
+    text-align: center;
+}
+
+.footer-i {
+    margin: 0% 1% 2%;
+}
+
+.copyright {
+    color: black;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+}

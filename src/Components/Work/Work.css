@@ -1,0 +1,31 @@
+#work {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.work-headline {
+  margin-bottom: 8%;
+  font-family: "Permanent Marker", cursive;
+}
+
+.meow-btn {
+  margin-top: 5% !important;
+}
+
+.card {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+@media screen and (max-width: 1201px) {
+  .card-1 {
+    padding-bottom: 7% !important;
+  }
+}
+
+@media screen and (max-width: 920px) {
+  #work {
+    width: 60% !important ;
+  }
+}

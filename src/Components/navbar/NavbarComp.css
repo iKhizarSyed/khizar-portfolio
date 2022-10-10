@@ -1,0 +1,25 @@
+.container-fluid {
+  width: 65% !important;
+  padding-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.brand-name {
+  font-weight: bolder;
+}
+
+.nav-item {
+  margin-right: 15px;
+  font-weight: bolder;
+}
+
+.nav-link:hover {
+  color: #31E1F7 !important;
+}
+
+@media screen and (max-width: 680px) {
+  .container-fluid {
+    width: 100% !important;
+  }
+}
