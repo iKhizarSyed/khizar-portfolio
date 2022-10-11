@@ -1,8 +1,8 @@
 {
   "name": "khizar-portfolio",
   "version": "0.1.0",
-  "engine" {
-    "node": "16.17.1"
+  "engine" : {
+    "node" : "16.17.1"
   },
   "private": true,
   "dependencies": {
