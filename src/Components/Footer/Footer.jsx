@@ -4,7 +4,7 @@ import "./Footer.css"
 function Footer() {
     return (
         <div className="container" id='footer'>
-            <a href="www.linkedin.com/in/khizarsyed" rel="noopener noreferrer" target="_blank">
+            <a href="https://www.linkedin.com/in/khizarsyed" rel="noopener noreferrer" target="_blank">
                 <i className="footer-i fa-brands fa-2x fa-linkedin"></i>
             </a>
 
