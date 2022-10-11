@@ -28,7 +28,7 @@ function Home() {
           </a>
         </div>
         <div className='col-md-6 text-center'>
-          <img className='photo' src="images/khizar.jpg" alt="me" />
+          <img className='photo' src="images/Khizar.jpg" alt="me" />
         </div>
       </div>
     </div>
