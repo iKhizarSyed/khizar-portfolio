@@ -18,6 +18,9 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
+/* MEDIA QUERRY */
+
+
 @media screen and (max-width: 1201px) {
   .card-1 {
     padding-bottom: 7% !important;
