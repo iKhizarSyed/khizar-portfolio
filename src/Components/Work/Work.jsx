@@ -22,7 +22,7 @@ function Work() {
                         <img src="images/newsletter-signup.png" className="card-img-top" alt="CAT-WEBSITE" />
                         <div className="card-body">
                             <h5 className="card-title">Newsletter-Signup</h5>
-                            <p className="card-text">Simple yet Beautiful signup page made using HTML,CSS,EXPRESS & deployed on HEROKU </p>
+                            <p className="card-text">Simple yet beautiful signup page made using HTML,CSS,EXPRESS & deployed on HEROKU </p>
                             <a href="https://khizar07.herokuapp.com/" rel="noopener noreferrer" target="_blank" className="btn btn-primary">View Site</a>
                         </div>
                     </div>
@@ -33,7 +33,7 @@ function Work() {
                         <img src="images/blog.png" className="card-img-top" alt="CAT-WEBSITE" />
                         <div className="card-body">
                             <h5 className="card-title">Blog Website</h5>
-                            <p className="card-text"> a wesbite designed to capture anyone's thought (more features will be added in the future♥)</p>
+                            <p className="card-text"> a website designed for you to capture your thoughts (more features will be added in the future♥)</p>
                             <a href="https://khizarblog.herokuapp.com/" rel="noopener noreferrer" target="_blank" className="btn btn-primary">View Site</a>
                         </div>
                     </div>
